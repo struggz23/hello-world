@@ -1,2 +1,4 @@
 # hello-world
-Test repo
+
+### Purpose
+This is a test to link GitHub and Jira
